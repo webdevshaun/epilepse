@@ -4,5 +4,5 @@
 ### Top contributors
 ###### 1: <a href="https://github.com/webdevshaun"> :octocat:/webdevshaun</a>
 ### Updates
-###### Feel free to sumit a Pull or Push request 
+###### Our aim is to create a free tool, opensource & great tool wich will help the epileptic users be able to do much more on the Web & Software Feel free to sumit a Pull or Push request.
 `epilepse - 2019 MPL 2.0`
