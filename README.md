@@ -1,11 +1,11 @@
-## epilepse
+## epilepse *beta*
 ### We've gone open on :octocat:
 #### Open Source Projects to adjust screen & reduce flash the for epileptic users
 ### Top contributors
 ###### 1: <a href="https://github.com/webdevshaun"> :octocat:/webdevshaun</a>
 ### Updates
 ###### Our aim is to create a free tool, opensource & great tool wich will help the epileptic users be able to do much more on the Web & Software Feel free to sumit a Pull or Push request.
-### Download
+### Latest Download
 - :: Windows  .exe (Win7,Win8/8.1 & Win 10)
 - () Chrome   .crx (Browser, Includes Chrome & Opera)
 - [} MacOS    .app (MacOS Sierra/High Sierra & Mojave)
