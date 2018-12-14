@@ -8,6 +8,6 @@
 ### Latest Download
 - : : Windows  .exe (Win7,Win8/8.1 & Win 10)
 - ( ) Chrome   .crx (Browser, Includes Chrome & Opera)
--  }¬ MacOS    .app (MacOS Sierra/High Sierra & Mojave)
-<br>
-`epilepse - 2019 MPL 2.0`
+-  [} MacOS    .app (MacOS Sierra/High Sierra & Mojave)
+<br></br>
+> `epilepse - 2019 MPL 2.0`
