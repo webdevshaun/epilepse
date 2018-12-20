@@ -12,4 +12,6 @@ Logo-Alternative
 ### Brand Colours
 -  #9074B0 L. Purple
 -  #57496D D. Purple
+- #1592FF Blue I
+- ##007BE7 Blue II
 -  #FDFEFF White
