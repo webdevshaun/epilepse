@@ -6,9 +6,11 @@
 ###### 1: <a href="https://github.com/webdevshaun"> :octocat:/webdevshaun</a>
 ### Updates
 ###### Our aim is to create a free tool, opensource & great tool wich will help the epileptic users be able to do much more on the Web & Software Feel free to sumit a Pull or Push request.
-### Latest Download
+### Latest Downloads
 - : : Windows  .exe (Win7,Win8/8.1 & Win 10)
 - ( ) Chrome   .crx (Browser, Includes Chrome & Opera)
 -  [} MacOS    .app (MacOS Sierra/High Sierra & Mojave)
+### Branding
+<a href="/branding.md">See branding</a>
 <br></br>
 > `epilepse - 2019 MPL 2.0`
