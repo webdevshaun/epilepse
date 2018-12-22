@@ -5,7 +5,7 @@
 ### Top contributors
 ###### 1: <a href="https://github.com/webdevshaun"> :octocat:/webdevshaun</a>
 ### Updates
-###### Our aim is to create a free tool, opensource & great tool wich will help the epileptic users be able to do much more on the Web & Software Feel free to sumit a Pull or Push request.
+Our aim is to create a free tool, opensource & great tool wich will help the epileptic users be able to do much more on the Web & Software Feel free to sumit a Pull or Push request.
 ### Latest Downloads
 - : : Windows  .exe (Win7,Win8/8.1 & Win 10)
 - ( ) Chrome   .crx (Browser, Includes Chrome & Opera)
